@@ -15,3 +15,7 @@ hasCJKLanguage = false
 # TODO create acc
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
