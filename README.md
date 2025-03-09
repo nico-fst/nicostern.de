@@ -1,7 +1,4 @@
-// TODO
-
 Start the local dev server via `hugo server`.
-
 
 # Credits
 

@@ -1,27 +1,29 @@
 ---
 title: Star Vault
-description: My public associative knowledge base
+description: My node.js-based Quartz server instance showcasing Obsidian templates and structural ideas
 slug: star-vault
-date: 2024-05-17 04:43:00+0000
-image: cover-rainbow.jpg
+date: 2025-01-08 04:43:00+0000
+image: obsidian-graph-scr.png
 categories:
-- Website
+- Server
+- Knowledge
 - Working on...
 tags:
 - Obsidian
 - Quartz
-- University
+- JS
+- Dataview
+weight: 101
 ---
 
-On [obsidian.nicostern.de](https://obsidian.nicostern.de) I plan to develop a subset of my private Obsidian Vault using a Quartz server.
+On [starvault.nicostern.de](https://starvault.nicostern.de) I continuously update Obsidian templates and structural ideas on how to elevate Obsidian to an intelligent, automated knowledge vault using a node.js-based Quartz server instance for show casing.
 
-Since I am impressed by it's .md approach combined with the *infinite* possibilities provided by the comunity through plugings, Obsidian became my smart journal, habit tracker, project manager and overall second brain - 'cause remember:
+Since I learned to love Obsidian's `.md` only(*) approach combined with the *infinite* possibilities provided by the comunity through plugings (view my own: [Todoian](nicostern.de/p/todoian/)), Obsidian became my smart journal, habit tracker, project manager and overall second brain - 'cause remember:
 
-> **"Your mind is for having ideas, not holding them."** \
+> **"Your mind is for having ideas, not for holding them."** \
 > David Allen, *Getting Things Done*
 
-The main content I plan to incorporate includes:
-- some of the modules at [University of Bonn](https://www.uni-bonn.de/de) that I have been tutoring, like:
-  - Technical Computer Science (de: "Technische Informatik")
-  - Internship In Object-oriented Software Development (de: "Praktikum objektorientierte Softwareentwicklung")
-- Scientific based learning techniques
+Main content in StarVault:
+- `smart templates` adapting to note titles and thus making Obsidian a structured, linked place (using Templater)
+- `naming, prefix, tagging and yaml conventions` I gathered throughout years of evelating my Obsidian usage combining many and many of tutorials
+- thinking in Obsidian 

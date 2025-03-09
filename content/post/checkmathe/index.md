@@ -14,7 +14,7 @@ tags:
     - Docker
     - Rest API
     - PostgreSQL
-weight: -998
+weight: 102
 ---
 
 Visit website on [http://checkmathe.de].
@@ -27,4 +27,4 @@ Students will also be able to book recurring tutorings or *InstantCheck*s where 
 
 In the iOS (and maybe Android sometimes...) App, students will be able to view their last tutorings and to have quick access to tutoring materials like PDFs from their teachers. They will be able to book tutorings from anywhere and view pending payments. My dream would be an Apple Pay integration where students can pay on the fly.
 
-Stay stundet for updates :).
+Stay tuned for updates :).
