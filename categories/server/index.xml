@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Server on Nico Stern</title><link>https://nicostern.de/categories/server/</link><description>Recent content in Server on Nico Stern</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2025 04:43:00 +0000</lastBuildDate><atom:link href="https://nicostern.de/categories/server/index.xml" rel="self" type="application/rss+xml"/><item><title>Star Vault</title><link>https://nicostern.de/p/star-vault/</link><pubDate>Wed, 08 Jan 2025 04:43:00 +0000</pubDate><guid>https://nicostern.de/p/star-vault/</guid><description>&lt;img src="https://nicostern.de/p/star-vault/obsidian-graph-scr.png" alt="Featured image of post Star Vault" />&lt;p>On &lt;a class="link" href="https://starvault.nicostern.de" target="_blank" rel="noopener"
+>starvault.nicostern.de&lt;/a> I continuously update Obsidian templates and structural ideas on how to elevate Obsidian to an intelligent, automated knowledge vault using a node.js-based Quartz server instance for show casing.&lt;/p>
+&lt;p>Since I learned to love Obsidian&amp;rsquo;s &lt;code>.md&lt;/code> only(*) approach combined with the &lt;em>infinite&lt;/em> possibilities provided by the comunity through plugings (view my own: &lt;a class="link" href="nicostern.de/p/todoian/" >Todoian&lt;/a>), Obsidian became my smart journal, habit tracker, project manager and overall second brain - &amp;lsquo;cause remember:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>&amp;ldquo;Your mind is for having ideas, not for holding them.&amp;rdquo;&lt;/strong> &lt;br>
+David Allen, &lt;em>Getting Things Done&lt;/em>&lt;/p>&lt;/blockquote>
+&lt;p>Main content in StarVault:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>smart templates&lt;/code> adapting to note titles and thus making Obsidian a structured, linked place (using Templater)&lt;/li>
+&lt;li>&lt;code>naming, prefix, tagging and yaml conventions&lt;/code> I gathered throughout years of evelating my Obsidian usage combining many and many of tutorials&lt;/li>
+&lt;li>thinking in Obsidian&lt;/li>
+&lt;/ul></description></item></channel></rss>
