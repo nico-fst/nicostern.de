@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Nico Stern</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Nico Stern</description>
+    <image>
+      <title>Nico Stern</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kuotes</title>
+      <link>http://localhost:1313/posts/kuotes/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kuotes/</guid>
+      <description>Remember highlights from your favourite books - directly on your homescreen</description>
+    </item>
+    <item>
+      <title>Dabstar Wedding</title>
+      <link>http://localhost:1313/posts/dabstar-wedding/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dabstar-wedding/</guid>
+      <description>An elegant Wedsite</description>
+    </item>
+    <item>
+      <title>CS50 Quiz</title>
+      <link>http://localhost:1313/posts/cs50quiz/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cs50quiz/</guid>
+      <description>Test your knowledge on the CS50x course with this iOS quiz app using Firebase as cloud-based backend</description>
+    </item>
+  </channel>
+</rss>

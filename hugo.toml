@@ -1,0 +1,145 @@
+baseURL = "https://nicostern.de"
+title = "Nico Stern"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ] # needs JSON for search
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "title here"
+description = "Nico's Homepage"
+keywords = ["Blog", "Portfolio", "PaperMod"]
+author = "Use Vim Stern"
+images = ["<link or path of image for opengraph, twitter-cards>"]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+[params.assets]
+favicon = "favicon.png"
+favicon16x16 = "favicon.png"
+favicon32x32 = "favicon.png"
+apple_touch_icon = "<link / abs url>"
+safari_pinned_tab = "<link / abs url>"
+
+[params.label]
+text = "Nico Stern"
+icon = "/apple-touch-icon.png"
+iconHeight = 35
+
+[params.profileMode]
+enabled = true
+title = "Hey, you finally found Nico Stern 🎹 🎾"
+subtitle = "I design and code full-stack software, specializing in native solutions"
+imageUrl = "avatar.png"
+imageTitle = "avatar"
+imageWidth = 200
+imageHeight = 200
+
+[[params.profileMode.buttons]]
+name = "Projects"
+url = "/projects"
+
+[[params.profileMode.buttons]]
+name = "Join IdenTEAM Beta"
+url = "https://testflight.apple.com/join/Vsm2Zj36"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://de.linkedin.com/in/nico-stern-6b8045256"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/nico-fst"
+
+[[params.socialIcons]]
+name = "email"
+url = "https://github.com/"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+[params.cover]
+hidden = false
+hiddenInList = false
+hiddenInSingle = false
+
+# [params.editPost]
+# URL = "https://github.com/nicostern.de/content"
+# Text = "Suggest Changes"
+# appendFilePath = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+limit = 10
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "archive"
+name = "Timeline"
+url = "/archives/"
+weight = 10
+
+# [[menu.main]]
+# identifier = "search"
+# name = "search"
+# url = "/search/"
+# weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "Projects"
+url = "/posts/"
+weight = 10
+
+# [[menu.main]]
+# identifier = "vim"
+# name = "vim is cool"
+# url = "https://www.youtube.com/watch?v=-txKSRn0qeA&t=36s"
+# weight = 30
+
+[markup.highlight]
+noClasses = false
