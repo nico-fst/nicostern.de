@@ -23,13 +23,13 @@ url = "https://www.linkedin.com/in/nico-stern-6b8045256/"
 [social.params]
 icon = "brand-linkedin"
 
-[[social]]
-identifier = "xing"
-name = "Xing"
-url = "https://www.xing.com/profile/Nico_Stern079538/"
+# [[social]]
+# identifier = "xing"
+# name = "Xing"
+# url = "https://www.xing.com/profile/Nico_Stern079538/"
 
-[social.params]
-icon = "brand-xing"
+# [social.params]
+# icon = "brand-xing"
 
 [[social]]
 identifier = "mail"
