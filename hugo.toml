@@ -45,12 +45,12 @@ tocopen = false
 favicon = "favicon.png"
 favicon16x16 = "favicon.png"
 favicon32x32 = "favicon.png"
-apple_touch_icon = "<link / abs url>"
-safari_pinned_tab = "<link / abs url>"
+apple_touch_icon = "favicon.png"
+safari_pinned_tab = "favicon.png"
 
 [params.label]
 text = "Nico Stern"
-icon = "/apple-touch-icon.png"
+icon = "favicon.png"
 iconHeight = 35
 
 [params.profileMode]
