@@ -3,7 +3,7 @@ title: "Kuotes"
 date: 2025-11-13T00:00:00+00:00
 # weight: 1
 aliases: ["/kuotes"]
-tags: ["Swift", "iOS", "Widgets", "WebDAV"]
+tags: ["Swift", "iOS", "Widgets", "WebDAV", "Vim is cool"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 # showToc: true
