@@ -1,7 +1,7 @@
 ---
 title: "IdenTEAM"
 description: "Finally build strong habits through social accountability"
-summary: "For me and my friends I developed a native iOS app to revisit book highlights from our kindles directly on our iPhone's homescreens."
+summary: "A native iOS app that combines social accountability, photo-based check-ins, and cloud services to support habit formation."
 progress: "In Progress..."
 date: 2025-12-12T00:00:00+00:00
 # weight: 1
