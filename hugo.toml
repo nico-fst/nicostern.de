@@ -55,7 +55,7 @@ iconHeight = 35
 
 [params.profileMode]
 enabled = true
-title = "Hey, you finally found Nico Stern 🎹 🎾"
+title = "Hey, you found Nico Stern 🎹 🎾"
 subtitle = "I design and code full-stack software, specializing in native solutions"
 imageUrl = "avatar.png"
 imageTitle = "avatar"
@@ -80,7 +80,7 @@ url = "https://github.com/nico-fst"
 
 [[params.socialIcons]]
 name = "email"
-url = "https://github.com/"
+url = "mailto:career@nicotern.de"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -125,7 +125,7 @@ weight = 10
 
 [[menu.main]]
 identifier = "tags"
-name = "Tags"
+name = "Interests"
 url = "/tags/"
 weight = 10
 

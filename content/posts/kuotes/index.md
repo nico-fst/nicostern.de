@@ -1,5 +1,8 @@
 ---
 title: "Kuotes"
+description: "Remember highlights from your favourite books - directly on your homescreen"
+summary: "For me and my friends I developed a native iOS app to revisit book highlights from our kindles directly on our iPhone's homescreens."
+progress: "In Progress..."
 date: 2025-11-13T00:00:00+00:00
 # weight: 1
 aliases: ["/kuotes"]
@@ -10,7 +13,6 @@ author: "Me"
 # draft: true
 # hidemeta: true
 # comments: true
-description: "Remember highlights from your favourite books - directly on your homescreen"
 disableShare: true
 # searchHidden: false
 ShowReadingTime: false
@@ -30,4 +32,6 @@ Me and my friends searched for a simple solution to recall certain key quotes fr
 > **"Your mind is for having ideas, not for holding them."** \
 > ~ David Allen, *Getting Things Done*
 
-So I developed Kuotes, an app that enables users to view their highlights at a glance directly form their Home Screen through widgets.
+After some brainstorming and exchange with other readers regarding their feature ideas I developed Kuotes, an app that enables users to alter and view their highlights at a glance directly form their home screen through widgets.
+
+You are welcomed to join the beta once I release it so stay tuned :).

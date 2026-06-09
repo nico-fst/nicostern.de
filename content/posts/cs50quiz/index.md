@@ -1,5 +1,8 @@
 ---
 title: "CS50 Quiz"
+description: "Test your knowledge on the CS50x course with this iOS quiz app using Firebase as cloud-based backend"
+summary: "As the final project of a computer science course before university, I prototyped a native iOS app backed by a cloud-based backend platform."
+progress: "Finished"
 date: 2023-08-04T00:00:00+00:00
 # weight: 1
 aliases: ["/cs50quiz"]
@@ -10,7 +13,6 @@ author: "Me"
 # draft: true
 # hidemeta: true
 # comments: true
-description: "Test your knowledge on the CS50x course with this iOS quiz app using Firebase as cloud-based backend"
 disableShare: true
 # searchHidden: false
 ShowReadingTime: false

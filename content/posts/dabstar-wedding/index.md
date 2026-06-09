@@ -1,5 +1,8 @@
 ---
 title: "Dabstar Wedding"
+description: "An elegant, responsive wedding website for RSVPing"
+summary: "I designed and refined the wedding website of a stakeholder iteratively using their feedback."
+progress: "Finished"
 date: 2025-02-01T00:00:00+00:00
 # weight: 1
 aliases: ["/dabstar"]
@@ -10,7 +13,6 @@ author: "Me"
 # draft: true
 # hidemeta: true
 # comments: true
-description: "An elegant Wedsite"
 disableShare: true
 # searchHidden: false
 ShowReadingTime: false
